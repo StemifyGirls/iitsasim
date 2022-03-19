@@ -8,13 +8,13 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Tecnical Leader, Evangelist, Architect, Developer, Teacher and Mentor!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning Open Source Governance @ Large Enterprises 🤣
+- 👯 I’m looking to colloborate and contribute through Open Source and Tech Talks
+- 🥅 2022 Goals: to contribute more to Open Source Community
+- ⚡ Fun fact: I love to play volly ball and shuttle
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
