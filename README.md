@@ -66,7 +66,6 @@
 ➡️ [more blog posts...](https://iitsasi.blogspot.com/)
 
 ---
----
 
 ### 📕 Latest Tech Q & A Blog Posts
 
@@ -80,6 +79,13 @@
 
 ➡️ [more blog posts...](http://iitsasi-faq.blogspot.com/?view=flipcard)
 
+---
+
+### 📕 Latest Certification Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [AWS Certs](https://iitsasiaws.blogspot.com/)
+- [SCA](https://iitsasi.webs.com/seca.htm)
 ---
 
 
