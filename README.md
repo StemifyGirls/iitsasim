@@ -53,7 +53,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Arctitecture Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS High Availability & Fault Tolerance Architecture](https://iitsasi.blogspot.com/2018/01/aws-highly-available-fault-tolerance.html)
@@ -66,6 +66,22 @@
 ➡️ [more blog posts...](https://iitsasi.blogspot.com/)
 
 ---
+---
+
+### 📕 Latest Tech Q & A Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Principles of Designing RESTful APIs](http://iitsasi-faq.blogspot.com/2019/05/restfull-webservices-design-principles.html?view=flipcard)
+- [Spring Boot](http://iitsasi-faq.blogspot.com/2018/02/spring-boot.html?view=flipcard)
+- [Database and SQL](http://iitsasi-faq.blogspot.com/2018/02/plsql.html?view=flipcard)
+- [Servers](http://iitsasi-faq.blogspot.com/2018/04/weblogic-server.html?view=flipcard)
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](http://iitsasi-faq.blogspot.com/?view=flipcard)
+
+---
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
