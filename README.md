@@ -45,6 +45,23 @@
 <br />
 <br />
 
+
+---
+###  Volunteer Services 
+[STEM Promotion and Coaching @ STEMIFYGIRLS](https://archimarrapu.wixsite.com/mysite-2/)
+<br />
+[AI and ML -Teaching and Mentoring@ TechBrights]()
+<br />
+[Leading Design and Implementation of AI powered bionic arm@Gurudeva Charitable Trust](https://www.gurudevacharitabletrust.org/)
+<br />
+[Organizing and Coaching American Computer Science League @ Elementary and Middle Schools](https://www.acsl.org/)
+<br />
+[Managing Regional Competitions @North Soouth Foundation](https://www.northsouth.org/public)
+<br />
+[Teaching Language(Telugu@Siliconandhra Manabade](https://manabadi.siliconandhra.org/)
+<br />
+
+
 ---
 ###  Presentations 
 [Microservices and Containers](https://www.slideshare.net/iitsasi)
