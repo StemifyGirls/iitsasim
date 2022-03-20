@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/iitsasi#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/iitsasi#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg)](https://www.linkedin.com/in/iitsasi#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-original.svg)](https://www.linkedin.com/in/iitsasi#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
