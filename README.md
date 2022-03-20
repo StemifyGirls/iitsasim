@@ -52,13 +52,13 @@
 <br />
 [AI and ML -Teaching and Mentoring@ TechBrights]()
 <br />
-[Leading Design and Implementation of AI powered bionic arm@Gurudeva Charitable Trust](https://www.gurudevacharitabletrust.org/)
+[Lead Design and Implementation of AI powered bionic arm@Gurudeva Charitable Trust](https://www.gurudevacharitabletrust.org/)
 <br />
-[Organizing and Coaching American Computer Science League @ Elementary and Middle Schools](https://www.acsl.org/)
+[Organize and Coach American Computer Science League @ Elementary and Middle Schools](https://www.acsl.org/)
 <br />
-[Managing Regional Competitions @North Soouth Foundation](https://www.northsouth.org/public)
+[Manage Regional STEM Competitions @North Soouth Foundation](https://www.northsouth.org/public)
 <br />
-[Teaching Language(Telugu@Siliconandhra Manabade](https://manabadi.siliconandhra.org/)
+[Teaching International Language - Telugu@Siliconandhra Manabade](https://manabadi.siliconandhra.org/)
 <br />
 
 
