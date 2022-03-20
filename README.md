@@ -2,7 +2,7 @@
 
 
 
-## I'm a Husband, Father, Tecnical Leader, Evangelist, Architect, Developer, Teacher and Mentor!!
+## I'm a Husband, Father, Tecnical Leader, Tech Evangelist, Architect, Developer, Teacher and Mentor!!
 
 
 - 🌱 I’m currently learning Open Source Governance @ Large Enterprises 🤣
