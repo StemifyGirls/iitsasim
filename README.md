@@ -69,6 +69,14 @@
 [Java Programming](https://www.slideshare.net/SasidharaRaoMarrapu/)
 
 ---
+###  Open Source Memberships and Contributions 
+[Code Triage](https://www.codetriage.com/university)
+<br />
+[Open Source Friday](https://opensourcefriday.com/users/iitsasim)
+<br />
+[Stack Overflow](https://stackoverflow.com/users/18506749/sasidhara-rao-marrapu)
+
+---
 
 ### 📕 Latest Arctitecture Blog Posts
 
