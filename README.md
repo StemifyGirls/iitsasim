@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[![website](https://cdn-icons-png.flaticon.com/512/174/174857.png](https://www.linkedin.com/in/iitsasi#gh-light-mode-only)
+[![website][https://cdn-icons-png.flaticon.com/512/174/174857.png](https://www.linkedin.com/in/iitsasi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iitsasi#gh-dark-mode-only)
 &nbsp;&nbsp;
 
