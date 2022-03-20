@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[![website](https://cdn-icons.flaticon.com/png/512/2504/premium/2504799.png?token=exp=1647780534~hmac=19fa12f45e2466cb8b8db98dedf760fb)](https://www.linkedin.com/in/iitsasi#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iitsasi#gh-dark-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/iitsasi#gh-light-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/iitsasi#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
