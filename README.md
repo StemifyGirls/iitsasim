@@ -5,11 +5,11 @@
 ## I'm a Husband, Father, Tecnical Leader, Tech Evangelist, Architect, Developer, Teacher and Mentor!!
 
 
-- 🌱 I’m currently learning Open Source Governance @ Large Enterprises 🤣
+- 🌱 I’m currently leading Open Source Governance @ Large Enterprises 🤣
 - 👯 I’m looking to colloborate and contribute through Open Source and Tech Talks
 - 🥅 2022 Goals: to contribute more to Open Source Community
-- ⚡ Fun fact: I love to play volly ball and shuttle
--  Love to teach < programming, AI and ML
+- ⚡ Fun fact: I love to play volleyball and badmenton
+-  Love to teach programming, AI and ML
 
 
 ### Connect with me:
